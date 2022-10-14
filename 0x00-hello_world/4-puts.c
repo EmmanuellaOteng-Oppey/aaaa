@@ -1,29 +1,47 @@
-vim 4-puts.c
-
-
-
-#include <stdio.h>
-
-
+include <stdio.h>
 
 /**
  *
- * * main - Printing
+ *  * main - prints the phrase "Programming is like building a multilingual puzzle
  *
- * *
+ *   * Return: 0 if exited properly, non-zero otherwise
  *
- * * Return: Always 0 (Successful)
- *
- * */
+ *    */
 
 int main(void)
 
 {
 
-	puts("\"Programming is like building a multilingual
+		puts("\"Programming is like building a multilingual puzzle");
 
-			puzzle");
-
-	return (0);
+			return (0);
 
 }
+
+
+
+
+
+
+
+
+ 
+
+ 
+  
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
